@@ -13,7 +13,7 @@
 Software engineer, problem-whisperer by trade. I code thoughtful solutions, untangle technical knots into human-friendly ones, and learn whatever the problem demands; bugs beware.
 
 🔭 &nbsp;I'm currently working on **an Incident Response Engine**  
-🌱 &nbsp;I'm currently learning **Docker, application security, CTFs, and why "it works on my machine" is a security risk.**  
+🌱 &nbsp;I'm currently learning **Docker, application security, and why "it works on my machine" is a security risk.**  
 👯 &nbsp;I'm looking to collaborate on **open source, dev tooling, and projects where the fun part is figuring out what's actually wrong.**  
 🤔 &nbsp;I'm looking for help with **sharpening my system design instincts, getting feedback on side projects, and taming the occasional mystery bug.**  
 💬 &nbsp;Ask me about **debugging war stories, weird bugs, and the tools I've tried and abandoned.**  
